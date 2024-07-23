@@ -12,4 +12,6 @@ Task List carried out to improve Javascript knowledge.
 
 ## Tools used 🛠️
 
-- [JAVASCRIPT](https://www.javascriptprogressivo.net/)
+- [JAVASCRIPT]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript])
+- [HTML5]([https://developer.mozilla.org/en-US/docs/Glossary/HTML5])
+- [CSS3]([https://developer.mozilla.org/pt-BR/docs/Web/CSS])
