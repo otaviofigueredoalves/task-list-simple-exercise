@@ -58,12 +58,17 @@ section > *{
 }
 
 main {
+    max-width: 100%;
     font-size: var(--font-list)
 }
 ul{
     padding: 20px;
     color: var(--font-color-list);
     font-weight: bold;
+    word-wrap: break-word;
+}
+li {
+    max-width: 100%;
 }
 input {
     min-width: 250px;
